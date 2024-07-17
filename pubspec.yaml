@@ -1,0 +1,25 @@
+name: tic_tac_toe_aplication
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/foto/win.jpg
+    - assets/foto/lose.jpg
+    - assets/foto/gambar1.jpeg
+    - assets/foto/1.jpg
